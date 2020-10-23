@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Lukas 👋
 
 <!--
 **LukasDoesDev/LukasDoesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [web-hmm](https://github.com/LukasDoesDev/web-hmm)
 - 📫 How to reach me: [Email](mailto:lukasdoesdev@gmail.com), [Twitter](https://twitter.com/LukasDoesStuff_), I removed the social media list -> [Website](https://lukasdoesdev.github.io)
 - ⚡ Fun fact: I am bad at programming
-
-
-
-### I'm Lukas (LukasDoesDev)
 
 I make posts at [dev.to](https://dev.to/lukasdoesdev)
 
