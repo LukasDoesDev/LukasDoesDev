@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [web-hmm](https://github.com/LukasDoesDev/web-hmm) & [Discord Den](https://github.com/LukasDoesDev/discord-den)
 - 🌱 I’m currently learning [deno](https://deno.land)
 - 👯 I’m looking to collaborate on [web-hmm](https://github.com/LukasDoesDev/web-hmm)
-- 📫 How to reach me: [Email](mailto:lukasdoesdev@gmail.com), [Twitter](https://twitter.com/LukasDoesStuff_), I removed the social media list -> [Website](https://lukasdoesdev.github.io)
+- 📫 How to reach me: [Email](mailto:lukasdoesdev@gmail.com), [Twitter](https://twitter.com/thatonelukas), I removed the social media list -> [Website](https://lukasdoesdev.github.io)
 - ⚡ Fun fact: I am bad at programming
 
 I make posts at [dev.to](https://dev.to/lukasdoesdev)
