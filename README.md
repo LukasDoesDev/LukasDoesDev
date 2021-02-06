@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [web-hmm](https://github.com/LukasDoesDev/web-hmm) & [Bord](https://github.com/LukasDoesDev/bord)
-- 🌱 I’m currently learning [deno](https://deno.land)
-- 👯 I’m looking to collaborate on [web-hmm](https://github.com/LukasDoesDev/web-hmm) and [Bord](https://github.com/LukasDoesDev/bord)
-- 📫 How to reach me: [Email](mailto:lukasdoesdev@gmail.com), [Twitter](https://twitter.com/thatonelukas), I removed the social media list -> [Website](https://lukasdoesdev.github.io)
+- 🔭 I’m currently working on [jar-exec](https://github.com/LukasDoesDev/jar-exec) and [Crafty Controller](https://craftycontrol.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/thatonelukas)
 - ⚡ Fun fact: I am bad at programming
+- 🔗 My website is at [https://thatonelukas.tk](https://thatonelukas.tk)
 
 I make posts at [dev.to](https://dev.to/lukasdoesdev)
 
