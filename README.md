@@ -15,11 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [jar-exec](https://github.com/LukasDoesDev/jar-exec) and [Crafty Controller](https://craftycontrol.com)
-- 📫 How to reach me: [Twitter](https://twitter.com/thatonelukas)
-- ⚡ Fun fact: I am bad at programming
-- 🔗 My website is at [https://thatonelukas.tk](https://thatonelukas.tk)
+## 🔭 Current Projects
+- [Crafty Controller](https://craftycontrol.com)
 
-I make posts at [dev.to](https://dev.to/lukasdoesdev)
+## 🌐 Languages
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" width="48">](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="48">](http://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="48">](http://vuejs.org/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="48">](http://python.org/)
+
+## ☎️ Contact
+- 🐦 Twitter: [https://twitter.com/thatonelukas](https://twitter.com/thatonelukas)
+- 🔗 Website: [https://thatonelukas.tk](https://thatonelukas.tk)
+
+## ⏳ GitHub Statistics
 
 ![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=lukasdoesdev&show_icons=true)
