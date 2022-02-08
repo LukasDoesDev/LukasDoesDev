@@ -1,6 +1,6 @@
 <!--## Hi there, I'm Lukas 👋-->
 
-![REHeader Thing](https://raw.githubusercontent.com/LukasDoesDev/LukasDoesDev/master/header.png "Made Using REHeader https://reheader.glitch.me/home")<br>
+![Business Card](https://thatonelukas.tk/businesscard.svg)
 
 <!--
 **LukasDoesDev/LukasDoesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="48">](http://python.org/)
 
 ## ☎️ Contact
-- 🐦 Twitter: [https://twitter.com/thatonelukas](https://twitter.com/thatonelukas)
-- 🔗 Website: [https://thatonelukas.tk](https://thatonelukas.tk)
+- 🐦 Twitter: [@thatonelukas](https://twitter.com/thatonelukas)
+- 🔗 Website: [thatonelukas.tk](https://thatonelukas.tk/en)
+- GitLab: [@LukasDoesDev](https://gitlab.com/LukasDoesDev)
 
 ## ⏳ GitHub Statistics
 
