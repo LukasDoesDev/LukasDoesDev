@@ -1,4 +1,4 @@
-<!--## Hi there, I'm Lukas 👋-->
+## Hello, I'm Lukas 👋-->
 
 ![Business Card](https://thatonelukas.tk/businesscard.svg)
 
