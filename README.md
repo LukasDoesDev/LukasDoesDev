@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ## ☎️ Contact
 - 🐦 Twitter: [@thatonelukas](https://twitter.com/thatonelukas)
-- 🔗 Website: [lukasdoesdev.gitlab.io](https://thatonelukas.tk/en)
+- 🔗 Website: [lukasdoesdev.gitlab.io](https://lukasdoesdev.gitlab.io/en)
 - GitLab: [@LukasDoesDev](https://gitlab.com/LukasDoesDev)
 
 ## ⏳ GitHub Statistics
