@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 
 ## ⏳ GitHub Statistics
 
-![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=lukasdoesdev&show_icons=true&theme=dark)<br/>
-![Lukas's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdoesdev&show_icons=true&theme=dark&layout=compact)
+![Lukas's Github Stats](https://github-readme-stats.vercel.app/api?username=lukasdoesdev&show_icons=true&theme=nord)<br/>
+![Lukas's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdoesdev&show_icons=true&theme=nord)
