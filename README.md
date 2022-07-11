@@ -10,7 +10,7 @@
 ## 🌐 Languages, tools and other skills    
 [Legend](https://github.com/tandpfun/skill-icons#icons-list)
 ### Programming languages
-![Programming languages](https://skillicons.dev/icons?perline=10&i=bash,java,js,py,kotlin,rust,ts,cs,dart,html,lua,latex,md,php,scala,wasm,elixir), AWK, SQL
+![Programming languages](https://skillicons.dev/icons?perline=10&i=bash,java,js,py,kotlin,rust,ts,cs,dart,html,lua,md,php,scala,wasm,elixir), AWK, SQL
 
 ### Markup languages
 ![Markup languages](https://skillicons.dev/icons?perline=10&i=html,latex,md)
