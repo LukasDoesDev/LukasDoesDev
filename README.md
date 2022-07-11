@@ -19,7 +19,7 @@
 ![Frontend frameworks and libraries](https://skillicons.dev/icons?perline=10&i=azul,electron,tauri,alpinejs,flutter,gtk,jquery,materialui,nextjs,react,redux,svelte,remix,vue,bootstrap,tailwind,sass,emotion,styledcomponents,vite,webpack)
 
 ### Document and design
-![Document and design](https://skillicons.dev/icons?perline=10&i=ae,blender,figma,latex,md,svg)
+![Document and design](https://skillicons.dev/icons?perline=10&i=blender,figma,latex,md,svg), Premiere Pro, GIMP
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?perline=10&i=mongodb,mysql,postgres,redis,sqlite)
